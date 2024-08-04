@@ -20,7 +20,7 @@ Welcome to my GitHub repository! This is a repository dedicated to introducing m
 
 ## About Me
 
-Hello, I'm [yu li], a student from [, currently studying at [The Beijing University of Posts and Telecommunications] with a major in [Communication Engineering]. I have a keen interest in [Programming, electronic design, geek production] and enjoy [Anime, movies, soul games]. I am currently working on improving my skills in [Programming, analog electronic circuits, digital electronic circuits].
+Hello, I'm [李宇], a student from [, currently studying at [The Beijing University of Posts and Telecommunications] with a major in [Communication Engineering]. I have a keen interest in [Programming, electronic design, geek production] and enjoy [Anime, movies, soul games]. I am currently working on improving my skills in [Programming, analog electronic circuits, digital electronic circuits].
 
 ## Education
 
